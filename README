@@ -1,3 +1,7 @@
+This is here so I don't lose it. It was written by Muhammd A Muquit 20 years ago, and serves the purpose perfectly. Made a repo so I don't lose it :) 
+
+I edited the X include and lib paths in the Makefile so it runs on OpenBSD. If you have X it should run on most BSD/Linux.
+
 A simple program to determine the color string in hex by clicking on a pixel.
 
   When this program is run, the mouse pointer is grabbed and changed to
